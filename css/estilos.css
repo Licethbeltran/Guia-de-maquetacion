@@ -1,0 +1,1602 @@
+/*correccion pagina 1*/
+.primerbarra{
+  background-color: rgb(89,89,91);
+  position: relative;
+  width: 101.4%;
+  height: 100px;
+}
+.primercosa{
+  background-color: rgb(255,74,0);
+  position: relative;
+  align-items: center;
+  display: flex;
+  width: 65%;
+  height: 60px;
+  margin: 20px;
+}
+.segundacosa{
+  background-color: white;
+  position: relative;
+  width: 90%;
+  height: 45px;
+  margin: 30px;
+}
+.tercercosa{
+  background-color: white;
+  position: relative;
+  width: 90%;
+  height: 45px;
+  margin: 30px;
+}
+.cuartacosa{
+  background-color: rgb(230,163,50);
+  position: relative;
+  width: 90%;
+  height: 45px;
+  margin: 30px;
+}
+.grayfondo{
+  background-color: #414143;
+  height: 150vh;
+  width: 120%;
+}
+.cuadradoone{
+  background-color: rgb(255,74,0);
+  width: 35%;
+  height: 200px;
+  margin: 30px;
+}
+.pol{
+  text-align: left;
+  margin-left: 28px;
+}
+.cuadradotwo{
+  background-color: #e6a233;
+  width: 25%;
+  height: 200px;
+  margin: 30px;
+}
+.fondogray{
+  background-color: #6d6e72;
+  width: 95%;
+  height: 150vh;
+}
+/*pagina 2*/
+{
+  box-sizing: border-box;
+}
+body{
+  margin: auto;
+  background-color: rgb(40,37,37);
+}
+.padre2{
+  background-color: rgb(89,89,91);
+  position: relative;
+  width: 101.5%;
+  height: 300px;
+}
+.cuadroamarillo{
+  background-color: rgb(230,163,50);
+  position: relative;
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+}
+.parrafo{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 30px;
+ }
+ .cajagris{
+  background-color: rgb(65,64,69);
+  position: relative;
+  width: 100vh;
+  height: 400px;
+  margin-top: 50px;
+}
+.cajagris2{
+  background-color: rgb(65,65,67);
+  right: 5vh;
+  width: 30%;
+  height: 1000px;
+  position: absolute;
+}
+.cuadrorojo1{
+  background-color: rgb(196,31,62);
+  position: relative;
+  width: 130px;
+  height: 130px;
+  margin: 50px;
+} 
+.cuadrorojo2{
+  background-color: rgb(236,28,35);
+  position: relative;
+  width: 130px;
+  height: 130px;
+  margin: 50px;
+}
+.cuadrorojo3{
+  background-color: rgb(204,31,40);
+  position: relative;
+  width: 130px;
+  height: 130px;
+  margin: 50px;
+}  
+.subti1{
+  left: 150px;
+  position: absolute;
+}
+.text1{
+  top: 40px;
+  left: 150px;
+  position: absolute;
+}
+.cuadrorojo4{
+  background-color: rgb(241,90,80);
+  position: relative;
+  width: 130px;
+  height: 130px;
+  margin: 50px;
+} 
+.textone{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 10px;
+
+}
+.textosub{
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 10px;
+}
+.rectangorangi{
+  background-color: rgb(89,89,81);
+  display: flex;
+  width: 100%;
+  height: 10em;
+}
+/*Pagina 3*/
+/*pagina 3*/
+{
+  box-sizing: border-box;
+}
+body{
+  margin: auto;
+  background-color: rgb(40,37,37);
+}
+.padre3{
+  background-color: rgb(89,89,91);
+  position: relative;
+  width: 101.7%;
+  height: 100px;
+}
+.barra4{
+  background-color: white;
+  position: absolute;
+  width: 15vh;
+  height: 40px;
+  margin: 30px;
+  border: 10px;
+}
+.barra5{
+  background-color: gray;
+  position: absolute;
+  width: 50px;
+  height: 40px;
+  margin: 30px;
+  left: 800px;
+}
+.barra6{
+  background-color: gray;
+  position: absolute;
+  width: 50px;
+  height: 40px;
+  margin: 30px;
+  left: 870px;
+}
+.barra7{
+  background-color: white;
+  position: absolute;
+  width: 280px;
+  height: 40px;
+  margin: 30px;
+  left: 950px;
+}
+.barra8{
+  background-color: orange;
+  position: absolute;
+  width: 50px;
+  height: 40px;
+  margin: 30px;
+  left: 1230px;
+}
+.cuadroytexto{
+  background-color: rgb(194,32,64);
+  position: relative;
+  width: 100px;
+  height: 100px;
+  margin: 50px;
+}
+.parrafo3{
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 5px;
+} 
+.titu32{
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 5px;
+} 
+.cuadrogris1{
+  background-color:rgb(65,65,67);
+  position: relative;
+  width: 65em;
+  height: 500px;
+  margin: 50px;
+}
+.parrafocaja{
+  display: flex;
+  justify-content: center;
+ }
+
+ .rectangorangn{
+  position: relative;
+  right: 60px;
+  background-color: rgb(65,65,67);
+  display: flex;
+  width: 100%;
+  height: 4em;
+}
+ .rectangorangm{
+  position: relative;
+  right: 60px;
+  background-color: rgb(87,89,91);
+  display: flex;
+  width: 100%;
+  height: 4em;
+}
+ .rectangorangb{
+  position: relative;
+  right: 60px;
+  background-color: rgb(112,111,116);
+  display: flex;
+  width: 100%;
+  height: 4em;
+}
+/*Pagina 4*/
+{
+  box-sizing: border-box;
+}
+body{
+  margin: auto;
+  background-color: rgb(40,37,37);
+}
+.texto{
+  font-size: 14px;
+}
+.tituloo{
+  font-size: 20px;
+}
+.cuadrogranderojo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(196,31,62);
+  width: 100%;
+  height: 65vh;
+  margin: 15px;
+  padding: 10px;
+}
+.triangle1{
+  width: 0; 
+  height: 0; 
+  border-left: 88px solid white;
+  border-top: 65px solid transparent;
+  border-bottom: 65px solid transparent;
+}
+
+/*pagina 5*/
+{
+  box-sizing: border-box;
+}
+body{
+  margin: auto;
+  background-color: rgb(40,37,37);
+}
+header{
+    background-color: #404042;
+    width: 100%;
+    / define altura de pantalla*/
+    height: 50vh;
+}
+.distribucion{
+    display: flex;
+}
+.cajaroja{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #c21d3d;
+    width: 100%;
+    height: 45vh;
+    margin: 15px;
+    padding: 10px;
+}
+.triangle{
+     width: 0; 
+     height: 0; 
+     border-left: 78px solid white;
+     border-top: 45px solid transparent;
+     border-bottom: 45px solid transparent;
+ }
+ h1{
+     color: white;
+     text-align: center;
+
+ }
+ p{
+     color: white;
+ }
+ .cajaparrafo{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+     padding: 30px;
+ }
+ .rectangorange{
+     background-color: orange;
+     display: flex;
+     width: 100%;
+     height: 10em;
+ }
+ .cajader{
+     background-color: #404042;
+ }
+ h2{
+     color: white;
+ }
+
+ /*pagina 6*/
+ {
+  box-sizing: border-box;
+}
+body{
+  margin: auto;
+  background-color: rgb(40,37,37);
+}
+.distribucion2{
+  background-color:rgb(89,89,91);
+  display:flex;
+  align-items: center;
+  height: 5em;
+}
+.cuadrogris{
+  background-color:gray;
+  width:100%;
+  height:60%;
+  padding: 10px;
+}
+.cuadroblanco{
+  background-color:white;
+  width: 100%;
+  height: 60%;
+  padding: 10px;
+}
+.cuadrorange{
+  background-color: orange;
+  width:100%;
+  height:60%;
+  padding: 10px;
+}
+.asd{
+  background-color: #2b2b2d;
+  display: flex;
+  height: 70vh;
+}
+.oraange{
+  background-color: orange;
+  color:white;
+}
+.carousel-item2{
+ background-color: rgb(65,65,67);
+  position: relative;
+  width: 75em;
+  height: 70vh;
+}
+.k{
+  position: relative;
+  right: 60px;
+  background-color: orange;
+  display: flex;
+  width: 100%;
+  height: 10em;
+}
+.l{
+  position: relative;
+  right: 60px;
+}
+.p{
+  background-color: rgb(44,44,46);
+}
+
+
+
+
+
+
+
+
+
+ /*Pagina 7*/
+{
+  box-sizing: border-box;
+}
+body{
+  margin: auto;
+  background-color: rgb(40,37,37);
+}
+.cuadrograngriss{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: gray;
+  width: 100%;
+  height: 65vh;
+  margin: 15px;
+  padding: 10px;
+}
+.cuadroblancoo{
+  background-color:white;
+  width: 50vh;
+  height: 8%;
+}
+.cuadrorangez{
+  position: absolute;
+  right: 445px;
+  background-color: orange;
+  width: 5vh;
+  height: 5%;
+}
+.cuadroamarilloo{
+  background-color: rgb(230,163,50);
+  position: relative;
+  width: 250px;
+  height: 250px;
+  margin-top: 25px;
+}
+.parrafo8{
+ display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 15px;
+}
+.cuadrogrisop{
+  margin: 25px;
+  margin-left: 100px;
+  background-color: gray;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.po{
+  margin-top: 15px;
+  font-size: 80%;
+}
+.qaz2{
+  margin-left: 30px;
+}
+
+/*pagina8*/
+.cuadrograngrisss{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: gray;
+  width: 100%;
+  height: 60vh;
+  margin: 15px;
+  padding: 10px;
+}
+.cuadritochiqui{
+  margin-right: 300px;
+  background-color: rgb(65,65,67);
+  position: relative;
+  width: 50px;
+  height: 50px;
+  margin-top: 200px;
+}
+.cuadritochiqui2{
+  margin-left: 100px;
+  background-color: rgb(65,65,67);
+  position: relative;
+  width: 50px;
+  height: 50px;
+}
+.cuadritochiqui3{
+  margin-left: 100px;
+  background-color: rgb(65,65,67);
+  position: relative;
+  width: 50px;
+  height: 50px;
+}
+.cuadritochiqui4{
+  margin-left: 100px;
+  background-color: rgb(65,65,67);
+  position: relative;
+  width: 50px;
+  height: 50px;
+}
+.naranjaa{
+  color: orange
+}
+.cuadritochiquito{
+  margin: 20px;
+  background-color: rgb(65,65,67);
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.cuadritochiquito1{ 
+  margin: 20px;
+  background-color: rgb(87,89,91);
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.cuadritochiquito2{
+  margin: 20px;
+  background-color: rgb(108,110,114);
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.parrafoo{
+  margin-top: 150px;
+}
+.alineacion{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.alineacion2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cuadritochiquito3{
+  margin: 20px;
+  background-color: gray;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.cuadritochiquito4{ 
+  margin: 20px;
+  background-color: gray;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.cuadritochiquito5{
+  margin: 20px;
+  background-color: gray;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+/*Pagina 9 */
+.naranjaa2{
+  color: orange;
+  text-align: left;
+}
+.pñgris{
+  margin: 20px;
+  background-color: rgb(65,65,67);
+  position: relative;
+  width: 150px;
+  height: 150px;
+}
+.grislargo{
+  margin: 20px;
+  background-color: rgb(44,44,46);
+  position: relative;
+  width: 79%;
+  height: 150px;
+}
+.tituliyos{
+  color: orange;
+}
+
+/*ANIMACIONES*/
+/*Pagina 1*/
+.animacion1{
+  animation: backInLeft; 
+  animation-duration: 3s;
+}
+.animacion2{
+  
+  animation: fadeInRight; 
+  animation-duration: 3s;
+  animation-delay: 6s;
+}
+.animacion3{
+  
+  animation: fadeInTopLeft; 
+  animation-duration: 3s;
+  animation-delay: 9s;
+}
+.animacion4{
+  
+  animation: rollIn; 
+  animation-duration: 3s;
+  animation-delay: 12s;
+}
+.animacion5{
+  
+  animation: zoomInDown; 
+  animation-duration: 3s;
+  animation-delay: 15s;
+}
+.animacion6{
+  animation: zoomInDown; 
+  animation-duration: 3s;
+  animation-delay: 18s;
+}
+.animacion7{
+  
+  animation: rollIn;
+  margin-left: 150px; 
+  animation-duration: 3s;
+  animation-delay: 21s;
+}
+.animacion8{
+  animation: slideInUp;
+  animation-duration: 3s;
+  animation-delay: 24s;
+}
+.animacion9{
+  animation: zoomInRight;
+  animation-duration: 3s;
+  animation-delay: 27s;
+}
+.animacion10{
+  animation: lightSpeedInRight;
+  animation-duration: 3s;
+  animation-delay: 30s;
+}
+.animacion11{
+  
+  animation: flipInX;
+  animation-duration: 3s;
+  animation-delay: 33s;
+}
+.animacion12{
+  
+  animation: jackInTheBox;
+  animation-duration: 3s;
+  animation-delay: 36s;
+}
+.animacion13{
+  
+  animation: rotateInUpLeft;
+  animation-duration: 3s;
+  animation-delay: 39s;
+}
+.animacion14{
+  
+  animation: fadeInLeft;
+  animation-duration: 3s;
+  animation-delay: 42s;
+}
+.animacion15{
+  
+  animation: zoomInRight;
+  animation-duration: 3s;
+  animation-delay: 45s;
+}
+.animacion16{
+ 
+  animation: zoomInUp;
+  animation-duration: 3s;
+  animation-delay: 48s;
+}
+.animacion17{
+
+  animation: zoomInRight;
+  animation-duration: 3s;
+  animation-delay: 51s;
+}
+.animacion18{
+ 
+  animation: zoomInUp;
+  animation-duration: 3s;
+  animation-delay: 54s;
+}
+.animacion19{
+ 
+  animation: zoomInRight;
+  animation-duration: 3s;
+  animation-delay: 57s;
+}
+.animacion20{
+
+  animation: zoomInUp;
+  animation-duration: 3s;
+  animation-delay: 60s;
+}
+.animacion21{
+  
+  animation: zoomInRight;
+  animation-duration: 3s;
+  animation-delay: 63s;
+}
+.animacion22{
+  
+  animation: zoomInUp;
+  animation-duration: 3s;
+  animation-delay: 66s;
+}
+/*Pagina 2*/
+.animacion23{
+  animation: pulse;
+  animation-duration: 3s;
+  animation-delay: 2s;
+}
+.animacion24{
+  animation: rubberBand;
+  animation-duration: 3s;
+  animation-delay: 4s;
+}
+.animacion25{
+  animation: heartBeat;
+  animation-duration: 4s;
+  animation-delay: 6s;
+}
+.animacion26{
+  animation: fadeInLeft;
+  animation-duration: 3s;
+  animation-delay: 8s;
+}
+.animacion27{
+  animation: bounceIn;
+  animation-duration: 3s;
+  animation-delay: 10s;
+}
+.animacion28{
+  animation:bounceInRight;
+  animation-duration: 3s;
+  animation-delay: 12s;
+}
+.animacion29{
+  animation: bounceInUp;
+  animation-duration: 3s;
+  animation-delay: 14s;
+}
+.animacion30{
+  animation: fadeInRight;
+  animation-duration: 3s;
+  animation-delay: 16s;
+}
+.animacion31{
+  animation: bounceInRight;
+  animation-duration: 3s;
+  animation-delay: 18s;
+}
+.animacion32{
+  animation: bounceInUp;
+  animation-duration: 3s;
+  animation-delay: 20s;
+}
+.animacion33{
+  animation: fadeInRight;
+  animation-duration: 3s;
+  animation-delay: 22s;
+}
+.animacion34{
+  animation: bounceInRight;
+  animation-duration: 3s;
+  animation-delay: 24s;
+}
+.animacion35{
+  animation: bounceInUp;
+  animation-duration: 3s;
+  animation-delay: 26s;
+}
+.animacion36{
+  animation: fadeInRight;
+  animation-duration: 3s;
+  animation-delay: 28s;
+}
+.animacion37{
+  animation: bounceInRight;
+  animation-duration: 3s;
+  animation-delay: 30s;
+}
+.animacion38{
+  animation: bounceInUp;
+  animation-duration: 3s;
+  animation-delay: 32s;
+}
+.animacion39{
+  animation: fadeInRight;
+  animation-duration: 3s;
+  animation-delay: 34s;
+}
+.animacion40{
+  animation: zoomIn;
+  animation-duration: 3s;
+  animation-delay: 36s;
+}
+.animacion41{
+  animation: slideInDown;
+  animation-duration: 3s;
+  animation-delay: 38s;
+}
+.animacion42{
+  animation: flipInX;
+  animation-duration: 3s;
+  animation-delay: 40s;
+}
+.animacion43{
+  animation: lightSpeedInLeft;
+  animation-duration: 3s;
+  animation-delay: 42s;
+}
+.animacion44{
+  animation: slideInDown;
+  animation-duration: 3s;
+  animation-delay: 44s;
+}
+.animacion45{
+  animation: flipInX;
+  animation-duration: 3s;
+  animation-delay: 48s;
+}
+.animacion46{
+  animation: lightSpeedInLeft;
+  animation-duration: 3s;
+  animation-delay: 50s;
+}
+.animacion47{
+  animation: slideInDown;
+  animation-duration: 3s;
+  animation-delay: 52s;
+}
+.animacion48{
+  animation: flipInX;
+  animation-duration: 3s;
+  animation-delay: 54s;
+}
+.animacion49{
+  animation: lightSpeedInLeft;
+  animation-duration: 3s;
+  animation-delay: 56s;
+}
+.animacion50{
+  animation: slideInDown;
+  animation-duration: 3s;
+  animation-delay: 58s;
+}
+.animacion51{
+  animation: flipInX;
+  animation-duration: 3s;
+  animation-delay: 60s;
+}
+.animacion52{
+  animation: lightSpeedInLeft;
+  animation-duration: 3s;
+  animation-delay: 62s;
+}
+.animacion53{
+  animation: flipInX;
+  animation-duration: 3s;
+  animation-delay: 64s;
+}
+/*pagina3*/
+.animacion2{
+  animation: bounceInRight;
+  animation-duration: 2s;
+  animation-delay: 3s;
+}
+.animacion53{
+  animation: swing;
+  animation-duration: 3s;
+  animation-delay: 4s;
+}
+.animacion54{
+  animation: jello;
+  animation-duration: 3s;
+  animation-delay: 6s;
+}
+.animacion55{
+  animation:jello ;
+  animation-duration: 3s;
+  animation-delay: 8s;
+}
+.animacion56{
+  animation: bounceInRight;
+  animation-duration: 3s;
+  animation-delay: 10s;
+}
+.animacion57{
+  animation: wobble;
+  animation-duration: 3s;
+  animation-delay: 12s;
+}
+.animacion58{
+  animation: backInLeft;
+  animation-duration: 3s;
+  animation-delay: 14s;
+}
+.animacion59{
+  animation: rotateIn;
+  animation-duration: 3s;
+  animation-delay: 16s;
+}
+.animacion60{
+  animation: zoomIn;
+  animation-duration: 3s;
+  animation-delay: 18s;
+}
+.animacion61{
+  animation: fadeIn;
+  animation-duration: 3s;
+  animation-delay: 20s;
+}
+.animacion62{
+  animation: lightSpeedInLeft;
+  animation-duration: 3s;
+  animation-delay: 22s;
+}
+.animacion63{
+  animation: rotateInDownRight;
+  animation-duration: 3s;
+  animation-delay: 24s;
+}
+.animacion64{
+  animation: rotateInDownLeft;
+  animation-duration: 3s;
+  animation-delay: 26s;
+}
+.animacion65{
+  animation: bounceInRight;
+  animation-duration: 3s;
+  animation-delay: 28s;
+}
+.animacion66{
+  animation: fadeInUpBig;
+  animation-duration: 3s;
+  animation-delay: 30s;
+}
+/*Pagina 4*/
+
+.animacion2{
+  animation: jello;
+  animation-duration: 3s;
+  animation-delay: 4s;
+}
+.animacion67{
+  animation: swing;
+  animation-duration: 3s;
+  animation-delay: 6s;
+}
+.animacion68{
+  animation: bounceInDown;
+  animation-duration: 3s;
+  animation-delay: 8s;
+}
+.animacion69{
+  animation: bounceInRight;
+  animation-duration: 3s;
+  animation-delay: 10s;
+}
+.animacion70{
+  animation: rollIn;
+  animation-duration: 3s;
+  animation-delay: 12s;
+}
+.animacion71{
+  animation: fadeInTopLeft;
+  animation-duration: 3s;
+  animation-delay: 14s;
+}
+.animacion72{
+  animation: bounceInUp;
+  animation-duration: 3s;
+  animation-delay: 16s;
+}
+.animacion73{
+  animation: bounceInRight;
+  animation-duration: 3s;
+  animation-delay: 18s;
+}
+.animacion74{
+  animation: backInUp;
+  animation-duration: 3s;
+  animation-delay: 20s;
+}
+/*Pagina 5*/
+
+.animacion75{
+  animation: rubberBand;
+  animation-duration: 3s;
+  animation-delay: 4s;
+}
+.animacion76{
+  animation:fadeIn;
+  animation-duration: 3s;
+  animation-delay: 6s;
+}
+.animacion77{
+  animation: bounceIn;
+  animation-duration: 3s;
+  animation-delay: 8s;
+}
+.animacion78{
+  animation: bounceInRight;
+  animation-duration: 3s;
+  animation-delay: 10s;
+}
+.animacion79{
+  animation: bounceInUp;
+  animation-duration: 3s;
+  animation-delay: 12s;
+}
+.animacion80{
+  animation: flipInY;
+  animation-duration: 3s;
+  animation-delay: 14s;
+}
+.animacion81{
+  animation: fadeInTopLeft;
+  animation-duration: 3s;
+  animation-delay: 16s;
+}
+.animacion82{
+  animation: slideInLeft;
+  animation-duration: 3s;
+  animation-delay: 18s;
+}
+.animacion83{
+  animation: flipInY;
+  animation-duration: 3s;
+  animation-delay: 20s;
+}
+.animacion84{
+  animation: rotateInDownLeft;
+  animation-duration: 3s;
+  animation-delay: 22s;
+}
+.animacion85{
+  animation: rubberBand;
+  animation-duration: 3s;
+  animation-delay: 24s;
+}
+.animacion86{
+  animation: shakeX;
+  animation-duration: 3s;
+  animation-delay: 26s;
+}
+.animacion87{
+  animation: fadeInTopRight;
+  animation-duration: 3s;
+  animation-delay: 28s;
+}
+.animacion88{
+  animation: fadeInTopRight;
+  animation-duration: 3s;
+  animation-delay: 30s;
+}
+.animacion89{
+  animation: fadeInTopRight;
+  animation-duration: 3s;
+  animation-delay: 32s;
+}
+.animacion90{
+  animation: zoomInLeft;
+  animation-duration: 3s;
+  animation-delay: 34s;
+}
+.animacion91{
+  animation: slideInUp;
+  animation-duration: 3s;
+  animation-delay: 36s;
+}
+.animacion92{
+  animation: zoomInRight;
+  animation-duration: 3s;
+  animation-delay: 38s;
+}
+.animacion93{
+  animation: slideInDown;
+  animation-duration: 3s;
+  animation-delay: 40s;
+}
+.animacion94{
+  animation: lightSpeedInRight
+  ;
+  animation-duration: 3s;
+  animation-delay: 42s;
+}
+.animacion95{
+  animation: slideInDown;
+  animation-duration: 3s;
+  animation-delay: 44s;
+}
+/*Pagina 6*/
+
+.animacion96{
+  animation: rubberBand;
+  animation-duration: 3s;
+  animation-delay: 4s;
+}
+.animacion97{
+  animation: bounceInDown;
+  animation-duration: 3s;
+  animation-delay: 6s;
+}
+.animacion98{
+  animation: fadeInUp;
+  animation-duration: 3s;
+  animation-delay: 8s;
+}
+.animacion99{
+  animation: backInRight;
+  animation-duration: 3s;
+  animation-delay: 10s;
+}
+.animacion100{
+  animation: bounceInUp;
+  animation-duration: 3s;
+  animation-delay: 12s;
+}
+.animacion101{
+  animation: flipInY;
+  animation-duration: 3s;
+  animation-delay: 14s;
+}
+.animacion102{
+  animation: rotateInDownRight;
+  animation-duration: 3s;
+  animation-delay: 16s;
+}
+.animacion103{
+  animation: lightSpeedInLeft;
+  animation-duration: 3s;
+  animation-delay: 18s;
+}
+.animacion104{
+  animation: flipInY;
+  animation-duration: 3s;
+  animation-delay: 20s;
+}
+.animacion105{
+  animation: rotateInDownLeft;
+  animation-duration: 3s;
+  animation-delay: 22s;
+}
+.animacion106{
+  animation: tada;
+  animation-duration: 3s;
+  animation-delay: 24s;
+}
+.animacion107{
+  animation: flipInY;
+  animation-duration: 3s;
+  animation-delay: 26s;
+}
+.animacion108{
+  animation: bounceInRight;
+  animation-duration: 3s;
+  animation-delay: 28s;
+}
+.animacion109{
+  animation: rotateInUpRight;
+  animation-duration: 3s;
+  animation-delay: 30s;
+}
+.animacion110{
+  animation: backInRight;
+  animation-duration: 3s;
+  animation-delay: 32s;
+}
+.animacion111{
+  animation: bounceInRight;
+  animation-duration: 3s;
+  animation-delay: 34s;
+}
+.animacion112{
+  animation: fadeInUp;
+  animation-duration: 3s;
+  animation-delay: 36s;
+}
+.animacion113{
+  animation: fadeInTopRight;
+  animation-duration: 3s;
+  animation-delay: 38s;
+}
+.animacion114{
+  animation: bounceInUp;
+  animation-duration: 3s;
+  animation-delay: 40s;
+}
+.animacion115{
+  animation: fadeInTopRight;
+  animation-duration: 3s;
+  animation-delay: 42s;
+}
+.animacion116{
+  animation: bounceInUp;
+  animation-duration: 3s;
+  animation-delay: 44s;
+}
+.animacion117{
+  animation: fadeInTopRight;
+  animation-duration: 3s;
+  animation-delay: 46s;
+}
+.animacion118{
+  animation: bounceInLeft;
+  animation-duration: 3s;
+  animation-delay: 48s;
+}
+.animacion119{
+  animation: bounceInUp;
+  animation-duration: 3s;
+  animation-delay: 50s;
+}
+.animacion120{
+  animation: bounceInLeft;
+  animation-duration: 3s;
+  animation-delay: 52s;
+}
+.animacion121{
+  animation: bounceInUp;
+  animation-duration: 3s;
+  animation-delay: 54s;
+}
+.animacion122{
+  animation: bounceInLeft;
+  animation-duration: 3s;
+  animation-delay: 56s;
+}
+.animacion123{
+  animation: bounceInUp;
+  animation-duration: 3s;
+  animation-delay: 58s;
+}
+.animacion124{
+  animation: bounceInUp;
+  animation-duration: 3s;
+  animation-delay: 60s;
+}
+.animacion125{
+  animation: bounceInLeft;
+  animation-duration: 3s;
+  animation-delay: 62s;
+}
+.animacion126{
+  animation: bounceInUp;
+  animation-duration: 3s;
+  animation-delay: 64s;
+}
+.animacion127{
+  animation: bounceInUp;
+  animation-duration: 3s;
+  animation-delay: 66s;
+}
+/*Pagina 7*/
+
+.animacion128{
+  animation: bounceIn;
+  animation-duration: 3s;
+  animation-delay: 4s;
+}
+.animacion129{
+  animation: bounceInLeft;
+  animation-duration: 3s;
+  animation-delay: 6s;
+}
+.animacion130{
+  animation: rotateIn;
+  animation-duration: 3s;
+  animation-delay: 8s;
+}
+.animacion131{
+  animation: rotateInUpRight;
+  animation-duration: 3s;
+  animation-delay: 10s;
+}
+.animacion132{
+  animation: fadeIn;
+  animation-duration: 3s;
+  animation-delay: 12s;
+}
+.animacion133{
+  animation: flipInY;
+  animation-duration: 3s;
+  animation-delay: 14s;
+}
+.animacion134{
+  animation: bounceInLeft;
+  animation-duration: 3s;
+  animation-delay: 16s;
+}
+.animacion135{
+  animation: bounceInLeft;
+  animation-duration: 3s;
+  animation-delay: 18s;
+}
+.animacion136{
+  animation: flipInY;
+  animation-duration: 3s;
+  animation-delay: 20s;
+}
+.animacion137{
+  animation: fadeIn;
+  animation-duration: 3s;
+  animation-delay: 22s;
+}
+.animacion138{
+  animation: swing;
+  animation-duration: 3s;
+  animation-delay: 24s;
+}
+.animacion139{
+  animation: flipInY;
+  animation-duration: 3s;
+  animation-delay: 26s;
+}
+.animacion140{
+  animation: backInRight;
+  animation-duration: 3s;
+  animation-delay: 28s;
+}
+.animacion141{
+  animation: bounceInRight;
+  animation-duration: 3s;
+  animation-delay: 30s;
+}
+.animacion142{
+  animation: bounceInRight;
+  animation-duration: 3s;
+  animation-delay: 32s;
+}
+.animacion143{
+  animation: fadeInRight;
+  animation-duration: 3s;
+  animation-delay: 34s;
+}
+.animacion144{
+  animation: slideInDown;
+  animation-duration: 3s;
+  animation-delay: 36s;
+}
+.animacion145{
+  animation: rotateInDownRight;
+  animation-duration: 3s;
+  animation-delay: 38s;
+}
+.animacion146{
+  animation: slideInDown;
+  animation-duration: 3s;
+  animation-delay: 40s;
+}
+.animacion147{
+  animation: rotateInDownRight;
+  animation-duration: 3s;
+  animation-delay: 42s;
+}
+.animacion148{
+  animation: slideInDown;
+  animation-duration: 3s;
+  animation-delay: 44s;
+}
+/*Pagina 8*/
+
+.animacion149{
+  animation: bounceIn;
+  animation-duration: 3s;
+  animation-delay: 4s;
+}
+.animacion150{
+  animation: bounceInUp;
+  animation-duration: 3s;
+  animation-delay: 6s;
+}
+.animacion151{
+  animation: fadeInDown;
+  animation-duration: 3s;
+  animation-delay: 8s;
+}
+.animacion152{
+  animation: fadeInTopRight;
+  animation-duration: 3s;
+  animation-delay: 10s;
+}
+.animacion153{
+  animation: fadeInUp;
+  animation-duration: 3s;
+  animation-delay: 12s;
+}
+.animacion154{
+  animation: flipInY;
+  animation-duration: 3s;
+  animation-delay: 14s;
+}
+.animacion155{
+  animation: rotateInDownLeft;
+  animation-duration: 3s;
+  animation-delay: 16s;
+}
+.animacion156{
+  animation: lightSpeedInLeft;
+  animation-duration: 3s;
+  animation-delay: 18s;
+}
+.animacion157{
+  animation: flipInY;
+  animation-duration: 3s;
+  animation-delay: 20s;
+}
+.animacion158{
+  animation: fadeIn;
+  animation-duration: 3s;
+  animation-delay: 22s;
+}
+.animacion159{
+  animation: rollIn;
+  animation-duration: 3s;
+  animation-delay: 24s;
+}
+.animacion160{
+  animation: flipInY;
+  animation-duration: 3s;
+  animation-delay: 26s;
+}
+.animacion161{
+  animation: rotateInDownRight;
+  animation-duration: 3s;
+  animation-delay: 28s;
+}
+.animacion162{
+  animation: lightSpeedInRight;
+  animation-duration: 3s;
+  animation-delay: 30s;
+}
+.animacion163{
+  animation: rotateInDownRight;
+  animation-duration: 3s;
+  animation-delay: 32s;
+}
+.animacion164{
+  animation: lightSpeedInRight;
+  animation-duration: 3s;
+  animation-delay: 34s;
+}
+.animacion165{
+  animation: zoomInUp;
+  animation-duration: 3s;
+  animation-delay: 36s;
+}
+.animacion166{
+  animation: zoomInDown;
+  animation-duration: 3s;
+  animation-delay: 38s;
+}
+.animacion167{
+  animation: zoomInUp;
+  animation-duration: 3s;
+  animation-delay: 40s;
+}
+.animacion168{
+  animation: zoomInDown;
+  animation-duration: 3s;
+  animation-delay: 42s;
+}
+.animacion169{
+  animation: slideInLeft;
+  animation-duration: 3s;
+  animation-delay: 44s;
+}
+/*Pagina 9*/
+
+.animacion170{
+  animation: bounceIn;
+  animation-duration: 3s;
+  animation-delay: 4s;
+}
+.animacion171{
+  animation: bounce;
+  animation-duration: 3s;
+  animation-delay: 6s;
+}
+.animacion172{
+  animation: fadeInDown;
+  animation-duration: 3s;
+  animation-delay: 8s;
+}
+.animacion173{
+  animation: bounceInRight;
+  animation-duration: 3s;
+  animation-delay: 10s;
+}
+.animacion174{
+  animation: fadeIn;
+  animation-duration: 3s;
+  animation-delay: 12s;
+}
+.animacion175{
+  animation: flipInY;
+  animation-duration: 3s;
+  animation-delay: 14s;
+}
+.animacion176{
+  animation: lightSpeedInRight;
+  animation-duration: 3s;
+  animation-delay: 16s;
+}
+.animacion177{
+  animation: rotateInDownLeft;
+  animation-duration: 3s;
+  animation-delay: 18s;
+}
+.animacion178{
+  animation: flipInY;
+  animation-duration: 3s;
+  animation-delay: 20s;
+}
+.animacion179{
+  animation: rotateInDownLeft;
+  animation-duration: 3s;
+  animation-delay: 22s;
+}
+.animacion180{
+  animation: hinge;
+  animation-duration: 3s;
+  animation-delay: 24s;
+}
+.animacion181{
+  animation: flipInY;
+  animation-duration: 3s;
+  animation-delay: 26s;
+}
+.animacion182{
+  animation: rotateInDownRight;
+  animation-duration: 3s;
+  animation-delay: 28s;
+}
+.animacion183{
+  animation: lightSpeedInRight;
+  animation-duration: 3s;
+  animation-delay: 30s;
+}
+.animacion184{
+  animation: lightSpeediInRight;
+  animation-duration: 3s;
+  animation-delay: 32s;
+}
+.animacion185{
+  animation: zoomInLeft;
+  animation-duration: 3s;
+  animation-delay: 34s;
+}
+.animacion186{
+  animation: slideInDown;
+  animation-duration: 3s;
+  animation-delay: 36s;
+}
+.animacion187{
+  animation: zoomInLeft;
+  animation-duration: 3s;
+  animation-delay: 38s;
+}
